@@ -3,6 +3,5 @@ venv/
 img/
 model/
 load_mnist.py
-preprocess.py
 canvas_digit.png
 webcam.py
